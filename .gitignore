@@ -1,0 +1,6 @@
+googleapi.key
+.venv/
+figures/
+data/
+__pycache__
+.idea/

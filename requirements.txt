@@ -1,0 +1,5 @@
+numpy
+googlemaps
+pdf2image
+scipy
+matplotlib
